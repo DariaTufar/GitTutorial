@@ -1,5 +1,5 @@
 # GitTutorial
-
+daria daria daria daria 
 ## Список корисних команд для роботи з git
 
 1. git clone - копіює репозиторій(папку з файлами) на компютер
